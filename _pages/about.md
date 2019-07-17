@@ -19,5 +19,15 @@ In addition to the development and management of the new Masters  Programme in D
 
 Raghava holds a Ph.D. degree in Computer Science and an M.Sc degree in Information Technology, both from IT University of Copenhagen, Denmark and a Bachelor of Technology degree from Jawaharlal Nehru Technological University, India. Before moving to research, Raghava has many years of programming and IT development experience from the Danish IT industry.
 
+My Primary research areas are:
+
+- Blockchain based Technologies and Smart Contracts
+- Computational Social Science
+- Big Data Analytics and Social Data Analytics
+- Text Analytics and Natural Language Processing
+- Data Mining and Machine Learning
+- Fuzzy Logic and Soft Computing
+- Formal methods for business processes and workflows
+
 
 

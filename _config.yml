@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Raghava Mukkamala"
   avatar           : "raghava-passport.png"
-  bio              : "Associate Professor, Copenhagen Business School"
+  bio              : "Associate Professor"
   location         : "Denmark"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  employer         : "Copenhagen Business School"
+  pubmed           :
+  googlescholar    : "https://scholar.google.dk/citations?user=VkhjFd4AAAAJ"
+  email            : "rrm[dot]digi[at]cbs[dot]dk"
+  researchgate     :  "https://www.researchgate.net/profile/Raghava_Rao_Mukkamala"
+  uri              : "www.cbs.dk/en/staff/rrmdigi"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/raghavamukkamala"
+  orcid            : "https://orcid.org/0000-0001-9814-3883"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :

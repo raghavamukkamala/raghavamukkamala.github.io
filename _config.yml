@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Raghava Mukkamala"
   avatar           : "raghava-passport.png"
-  bio              : "Associate Professor, Copenhagen Business School, Denmark"
-  location         : "Location"
+  bio              : "Associate Professor, Copenhagen Business School"
+  location         : "Denmark"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"

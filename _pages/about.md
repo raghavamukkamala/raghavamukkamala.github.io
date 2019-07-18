@@ -13,7 +13,6 @@ Raghava Mukkamala is an associate professor at the Department of Digitalization,
 
 Raghava’s current research focus is on the interdisciplinary approach to big data analytics. Combining formal/mathematical modeling approaches with data/text mining techniques and machine learning methodologies, his current research program seeks to develop new algorithms and techniques for big data analytics such as Social Set Analytics.
 
-some text
 
 In addition to the development and management of the new Masters  Programme in Data Science, he is also teaching several courses in the areas of programming, machine learning and blockchain technology.  
 

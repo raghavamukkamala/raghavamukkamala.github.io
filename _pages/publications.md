@@ -47,7 +47,7 @@ In: IEEE Engineering Management Review, Vol. 46, No. 4, 12.2018, p. 94-99. ([PDF
 
 
 
-**00. [C]**. Xiaochen Zheng; Raghava Rao Mukkamala; Ravi Vatrapu; Joaqun Ordieres-Mere / **Blockchain-based Personal Health Data Sharing System Using Cloud Storage. **
+**00. [C]**. Xiaochen Zheng; Raghava Rao Mukkamala; Ravi Vatrapu; Joaqun Ordieres-Mere / **Blockchain-based Personal Health Data Sharing System Using Cloud Storage.**
 In: 2018 IEEE 20th International Conference on E-Health Networking, Applications and Services (Healthcom). ed. /Jan Kubicek. Los Alamos, CA : IEEE 2018. ([PDF](https://raghavamukkamala.github.io/files/pubs/2018_Blockchain-Social-business-Principles-Applications.pdf){:target="_blank"})
 
 

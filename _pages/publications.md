@@ -53,7 +53,7 @@ In: 2018 IEEE 20th International Conference on E-Health Networking, Applications
 
 
 **00. [C]**. Mikkel Alexander Harlev; Haohua Sun Yin; Klaus Christian Langenheldt; Raghava Rao Mukkamala; Ravi Vatrapu / **Breaking Bad : De-Anonymising Entity Types on the Bitcoin Blockchain Using Supervised Machine Learning.**
-In: Proceedings of the 51st Hawaii International Conference on System Sciences 2018Honolulu : Hawaii International Conference on System Sciences (HICSS) 2018, p. 3497-3506 (Proceedings of the Annual Hawaii International Conference on System Sciences). ([PDF](https://raghavamukkamala.github.io/files/pubs/2018_HICSS_bitcoin_paper.pdf){:target="_blank"})
+In: Proceedings of the 51st Hawaii International Conference on System Sciences 2018Honolulu : Hawaii International Conference on System Sciences (HICSS) 2018, p. 3497-3506 (Proceedings of the Annual Hawaii International Conference on System Sciences). <span style="background-color: #00F900"> (**Best Paper Award**) </span> &nbsp;  <span style="background-color: #00F900">&nbsp;&nbsp; (**Best Student Paper Award**) </span> ([PDF](https://raghavamukkamala.github.io/files/pubs/2018_HICSS_bitcoin_paper.pdf){:target="_blank"})
 
 
 **00. [J]**. Paulius Juodisius; Atrisha Sarkar; Raghava Rao Mukkamala; Michal Antkiewicz; Krzysztof Czarnecki; Andrzej Wasowski / **Clafer : Lightweight Modeling of Structure, Behaviour, and Variability.**
@@ -105,7 +105,7 @@ In: Proceedings. 2017 IEEE International Conference on Big Data: IEEE Big Data 2
 In: Proceedings of the 21st International Academic Mindtrek Conference. ed. /Markku Turunen; Heli Väätäjä; Janne Paavilainen; Thomas Olsson. New York : Association for Computing Machinery 2017, p. 203-209. ([PDF](https://raghavamukkamala.github.io/files/pubs/2017_Mindtrek_p203-torro.pdf){:target="_blank"})
 
 
-**00. [C]**. Aseem Kinra; Raghava Rao Mukkamala; Ravi Vatrapu / **Methodological Demonstration of a Text Analytics Approach to Country Logistics System Assessments**. In: Dynamics in Logistics: Proceedings of the 5th International Conference LDIC, 2016 Bremen, Germany. . ed. /Michael Freitag; Herbert Kotzab; Jürgen Pannek. Cham : Springer The 5th International Conference on Dynamics in Logistics. LDIC 2016, 2017, p. 119-129 (Lecture Notes in Logistics). ([PDF](https://raghavamukkamala.github.io/files/pubs/2017_LDIC_transportation_logistics.pdf){:target="_blank"})
+**00. [C]**. Aseem Kinra; Raghava Rao Mukkamala; Ravi Vatrapu / **Methodological Demonstration of a Text Analytics Approach to Country Logistics System Assessments**. In: Dynamics in Logistics: Proceedings of the 5th International Conference LDIC, 2016 Bremen, Germany. . ed. /Michael Freitag; Herbert Kotzab; Jürgen Pannek. Cham : Springer The 5th International Conference on Dynamics in Logistics. LDIC 2016, 2017, p. 119-129 (Lecture Notes in Logistics). <span style="background-color: #00F900"> (**Best Paper Nomination**) </span>   ([PDF](https://raghavamukkamala.github.io/files/pubs/2017_LDIC_transportation_logistics.pdf){:target="_blank"})
 
 
 **00. [C]**. Xiao Xiao; Jonas Hedman; Felix Ter Chian Tan; Chee-Wee Tan; Eric T. K. Lim; Torkil Clemmensen; Stefan Henningsson; Raghava Rao Mukkamala; Ravi Vatrapu; Jos van Hillegersberg / **Sports Digitalization : An Overview and a Research Agenda.**

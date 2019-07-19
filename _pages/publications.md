@@ -113,3 +113,89 @@ In: ICIS 2017 ProceedingsAtlanta, GA : Association for Information Systems. AIS 
 
 
 **00. [C]**. Lester Allan Lasrado; Ravi Vatrapu; Raghava Rao Mukkamala / **Whose Maturity is it Anyway? : The Influence of Different Quantitative Methods on the Design and Assessment of Maturity Models.** In: ECIS 2017 ProceedingsAtlanta, GA : Association for Information Systems. AIS Electronic Library (AISeL) 2017, p. 2918-2927 (Proceedings of the European Conference on Information Systems). ([PDF](https://raghavamukkamala.github.io/files/pubs/2017_ECIS_Whose_Maturity_Is_It_Anyway.pdf){:target="_blank"})
+
+2016
+====
+
+**00. [C]**. Nadiya Straton; Kjeld Hansen; Raghava Rao Mukkamala; Abid Hussain; Tor-Morten Grønli; Henning Langberg; Ravi Vatrapu / **Big Social Data Analytics for Public Health : Facebook Engagement and Performance.**
+In: 2016 IEEE 18th International Conference on e-Health Networking, Applications and Services (Healthcom). ed. /Alois Paulin. Los Alamitos, CA : IEEE 2016, p. 442-447. ([PDF](https://raghavamukkamala.github.io/files/pubs/2016_healthcom-bigsocialdata.pdf){:target="_blank"})
+
+
+**00. [C]**. Anna Hennig; Anne-Sofie Åmodt; Henrik Hernes; Helene Mejer Nygårdsmoen; Peter Arenfeldt Larsen; Raghava Rao Mukkamala; Benjamin Flesch; Abid Hussain; Ravi Vatrapu / **Big Social Data Analytics of Changes in Consumer Behaviour and Opinion of a TV Broadcaster.**
+In: Proceedings of the 2016 IEEE International Conference on Big Data (BigData '16). ed. /James Joshi; George Karypis; Ling Liu. Piscataway, NJ : IEEE 2016, p. 3839-3848. ([PDF](https://raghavamukkamala.github.io/files/pubs/2016_IEEE_BigData_TV2_Social_data_main.pdf){:target="_blank"})
+
+
+**00. [C]**. Kjeld S. Hansen; Raghava Rao Mukkamala; Abid Hussain; Tor-Morten Grønli; Henning Langberg; Ravi Vatrapu / **Big Social Data in Public Health : A Mixed-Methods Case Study of Sundhed.dk's Facebook Strategy, Engagement, and Performance.**
+In: Proceedings of the 7th International Conference on Emerging Ubiquitous Systems and Pervasive Networks (EUSPN 2016)/The 6th International Conference on Current and Future Trends of Information and Communication Technologies in Healthcare (ICTH-2016)/Affiliated Workshops. ed. /Ansar-Ul-Haque Yasar; Nik Bessis. Amsterdam : Elsevier 2016, p. 298-307 (Procedia Computer Science, Vol. 98). ([PDF](https://raghavamukkamala.github.io/files/pubs/2016_ICTH_public_health_sundhed.pdf){:target="_blank"})
+
+
+**00. [C]**. Jari Jussila; Karan Menon; Raghava Rao Mukkamala; Lester Allan Lasrado; Abid Hussain; Ravi Vatrapu; Hannu Kärkkäinen; Jukka Huhtamäki / **Crowdfunding in the Development of Social Media Fanbase : Case Study of Two Competing Ecosystems.**
+In: Proceedings of the 49th Hawaii International Conference on System Sciences (HICSS 2016). ed. /Tung Bui; Ralph H. Sprague, Jr.. Los Alamitos, CA : IEEE 2016, p. 4495-4504 (Proceedings of the Annual Hawaii International Conference on System Sciences). ([PDF](https://raghavamukkamala.github.io/files/pubs/2016_HICSSC_Crowdfunding.pdf){:target="_blank"})
+
+
+**00. [C]**. Linda Camilla Boldt; Vinothan Vinayagamoorthy; Florian Winder; Schnittger Melanie; Mats Ekram; Raghava Rao Mukkamala; Niels Buus Lassen; Benjamin Flesch; Abid Hussain; Ravi Vatrapu / **Forecasting Nike’s Sales using Facebook Data.**
+In: Proceedings of the 2016 IEEE International Conference on Big Data (BigData '16). ed. /James Joshi; George Karypis; Ling Liu. Piscataway, NJ : IEEE 2016, p. 2447-2456. ([PDF](https://raghavamukkamala.github.io/files/pubs/2016-IEEE-Bigdata-Nike-Socialdata.pdf){:target="_blank"})
+
+
+**00. [C]**. Lasse Korsholm Poulsen; Daan Dekkers; Nicolaas Wagenaar; Wesley Snijders; Ben Lewinsky; Raghava Rao Mukkamala; Ravi Vatrapu / **Green Cabs vs. Uber in New York City.**
+In: Proceedings of the 2016 IEEE International Congress on Big Data. BigData Congress 2016. ed. /Calton Pu; Feoffrey Fox; Ernesto Damiani. Los Alamitos, CA : IEEE 2016, p. 222–229. ([PDF](https://raghavamukkamala.github.io/files/pubs/2016_IEEE_Bigdata_NY_Taxi_Rides.pdf){:target="_blank"})
+
+
+**00. [C]**. Jayesh Prakash Gupta; Karan Menon; Hannu Kärkkäinen; Jukka Huhtamäki; Raghava Rao Mukkamala; Abid Hussain; Ravi Vatrapu; Jari Jussila; Henri Pirkkalainen / **Identifying Weak Ties from Publicly Available Social Media Data in an Event.**
+In: Academic Mindtrek 2016 : Proceedings of the 20th International Academic Mindtrek Conference 2016. New York : Association for Computing Machinery 2016, p. 11-19. ([PDF](https://raghavamukkamala.github.io/files/pubs/2016_ACM_Mindtrek_Paper.pdf){:target="_blank"})
+
+
+**00. [J]**. Ravi Vatrapu; Raghava Rao Mukkamala; Abid Hussain; Benjamin Flesch / **Social Set Analysis : A Set Theoretical Approach to Big Data Analytics.**
+In: IEEE Access, Vol. 4, 2016, p. 2542-2571. ([PDF](https://raghavamukkamala.github.io/files/pubs/2016_IEEE_Access_Journal_SSA.pdf){:target="_blank"})
+
+
+**00. [C]**. Benjamin Flesch; Ravi Vatrapu; Raghava Rao Mukkamala; Abid Hussain / **Social Set Visualizer (SoSeVi) II : Interactive Social Set Analysis of Big Data.**
+In: Proceedings of the International Workshop on Set Visualization and Reasoning, SetVR 2016. ed. /Sven Linker; Peter Rodgers. Aachen : CEUR 2016, p. 19-28 (CEUR Workshop Proceedings, Vol. 1655). ([PDF](https://raghavamukkamala.github.io/files/pubs/2016_SETVR_SoSeVi-Interactive_Social_Set_Analysis_of_BigData.pdf){:target="_blank"})
+
+
+**00. [C]**. Henrikke Hovda Larsen; Johanna Margareta Forsberg; Sigrid Viken Hemstad; Raghava Rao Mukkamala; Abid Hussain; Ravi Vatrapu / **TV Ratings vs. Social Media Engagement : Big Social Data Analytics of the Scandinavian TV Talk Show Skavlan.**
+In: Proceedings of the 2016 IEEE International Conference on Big Data (BigData '16). ed. /James Joshi; George Karypis; Ling Liu. Piscataway, NJ : IEEE 2016, p. 3849-3858. ([PDF](https://raghavamukkamala.github.io/files/pubs/2016_IEEE_Bigdata_Skavlan_Talkshow_Social_data_main.pdf){:target="_blank"})
+
+2015
+====
+
+**00. [C]**. Jannie Iskou Sørensen; Raghava Rao Mukkamala; Abid Hussain; Ravi Vatrapu / **A Framework for Managing Corporate Social Media Crisis.**
+Abstract from The 6th International Conference on Social Media & Society. SMSociety 2015, 2015.
+
+
+**00. [C]**. Raghava Rao Mukkamala; Jannie Iskou Sørensen; Abid Hussain; Ravi Vatrapu / **Detecting Corporate Social Media Crises on Facebook Using Social Set Analysis.**
+In: Proceedings of the 2015 IEEE International Congress on BigData. ed. /Carminati Barbara; Latifur Khan. Los Alamitos, CA : IEEE 2015, p. 745-748. ([PDF](https://raghavamukkamala.github.io/files/pubs/2015_crisis-mgmt_IEEE_bigdata.pdf){:target="_blank"})
+
+
+**00. [C]**. Ravi Vatrapu; Abid Hussain; Niels Buus Lassen; Raghava Rao Mukkamala; Benjamin Flesch; René Madsen / **Social Set Analysis : Four Demonstrative Case Studies.**
+In: Proceedings of the 2015 International Conference on Social Media & Society: SMSociety '15. . ed. /Anatoliy Gruzd; Jenna Jacobson; Philip Mai; Barry Wellman. New York : Association for Computing Machinery 2015 (ACM International Conference Proceeding Series). ([PDF](https://raghavamukkamala.github.io/files/pubs/2015_SMSociety_SocialSet.pdf){:target="_blank"})
+
+
+**00. [C]**. Raghava Rao Mukkamala; Jannie Iskou Sørensen; Abid Hussain; Ravi Vatrapu / **Social Set Analysis of Corporate Social Media Crises on Facebook.**
+In: 19th IEEE International Enterprise Distributed Object Computing Conference. EDOC 2015. ed. /Sylvain Hallé; Wolfgang Mayer. Los Alamitos, CA : IEEE 2015, p. 112-121 (International Enterprise Distributed Object Computing Conference. Proceedings, Vol. 2015). ([PDF](https://raghavamukkamala.github.io/files/pubs/2015_Edoc_crisis-mgmt.pdf){:target="_blank"})
+
+
+**00. [C]**. Benjamin Flesch; Ravi Vatrapu; Raghava Rao Mukkamala; Abid Hussain / **Social Set Visualizer : A Set Theoretical Approach to Big Social Data Analytics of Real-world Events.**
+In: Proceedings 2015 IEEE International Conference on Big Data. ed. /Howard Ho; Beng Chin Ooi; Mohammed J. Zaki; Xiaohua Hu; Laura Haas; Vipin Kumar; Sudarsan Rachuri; Shipeng Yu; Morris Hui-I Hsiao; Jian Li; Feng Luo; Saumyadipta Pyne; Kemafor Ogan. Los Alamitos, CA : IEEE 2015, p. 2418-2427. ([PDF](https://raghavamukkamala.github.io/files/pubs/2015-IEEE-Bigdata-Conf-SOSEVI.pdf){:target="_blank"})
+
+
+**00. [BC]**. Per Østergaard Jacobsen; Eric Bentzen; Mogens Bjerre; Frank Bøggild; Abid Hussain; Jane Frederikke Land; Niels Buus Lassen; Raghava Rao Mukkamala; Torsten Ringberg; Ravi Vatrapu / **Temperaturen på danske loyalitetsklubber anno 2015 : Analyse & håndbog i arbejdet med loyalitet.**
+Rungsted Kyst : Efficiens 2015, 159 p.
+
+2014
+====
+
+**00. [C]**. Ravi Vatrapu; Raghava Rao Mukkamala; Abid Hussain / **A Set Theoretical Approach to Big Social Data Analytics : Concepts, Methods, Tools, and Findings.**
+In: Computational Social Science: Contagion, Collective Behaviour, and Networks. Oxford : University of Oxford 2014, p. 22-24.
+
+
+**00. [C]**. Raghava Rao Mukkamala; Abid Hussain; Ravi Vatrapu / **Fuzzy-Set Based Sentiment Analysis of Big Social Data.**
+In: Proceedings of the IEEE 18th International Enterprise Distributed Object Computing Conference, EDOC 2014. ed. /Manfred Reichert; Stefanie Rinderle-Ma; Georg Grossmann. Los Alamitos, CA : IEEE 2014, p. 71-80 (International Enterprise Distributed Object Computing Conference. Proceedings, Vol. 18). ([PDF](https://raghavamukkamala.github.io/files/pubs/2014_EDOC_BigSocialData_Fuzzysets.pdf){:target="_blank"})
+
+
+**00. [C]**. Ravi Vatrapu; Raghava Rao Mukkamala; Abid Hussain / **Towards a Set Theoretical Approach to Big Social Data Analytics : Concepts, Methods, Tools, and Empirical Findings.**
+Abstract from The 5th International Conference on Social Media & Society. SMSociety 2014, 2014. ([PDF](https://raghavamukkamala.github.io/files/pubs/2014_smsociety14_Extended_Abstract.pdf){:target="_blank"})
+
+
+**00. [C]**. Raghava Rao Mukkamala; Abid Hussain; Ravi Vatrapu / **Towards a set Theoretical Approach to Big Data Analytics.**
+In: Proceedings of the 2014 IEEE International Congress on Big Data. BigData Congress 2014. ed. /Peter Chen; Hermant Jain. Los Alamitos, CA : IEEE 2014, p. 629-636. ([PDF](https://raghavamukkamala.github.io/files/pubs/2014_IEEE-BigData-socialdata-set-theory.pdf){:target="_blank"})

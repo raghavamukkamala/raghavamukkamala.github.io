@@ -199,3 +199,68 @@ Abstract from The 5th International Conference on Social Media & Society. SMSoci
 
 **00. [C]**. Raghava Rao Mukkamala; Abid Hussain; Ravi Vatrapu / **Towards a set Theoretical Approach to Big Data Analytics.**
 In: Proceedings of the 2014 IEEE International Congress on Big Data. BigData Congress 2014. ed. /Peter Chen; Hermant Jain. Los Alamitos, CA : IEEE 2014, p. 629-636. ([PDF](https://raghavamukkamala.github.io/files/pubs/2014_IEEE-BigData-socialdata-set-theory.pdf){:target="_blank"})
+
+2013
+====
+
+**00. [C]**. Thomas Hildebrandt, Morten Marquard, Raghava Rao Mukkamala, and Tijs Slaats. **Dynamic condition response graphs for trustworthy adaptive case management.** In OTM Confederated International Conferences" On the Move to Meaningful Internet Systems", pp. 166-171. Springer, Berlin, Heidelberg, 2013. *Authors listed alphabetically.* ([PDF](https://raghavamukkamala.github.io/files/pubs/2013_DCRG-ACM-Position-paper.pdf){:target="_blank"})
+
+
+**00. [C]**. Raghava Rao Mukkamala, Thomas Hildebrandt, and Tijs Slaats. **Towards trustworthy adaptive case management with dynamic condition response graphs.** In 2013 17th IEEE International Enterprise Distributed Object Computing Conference, pp. 127-136. IEEE, 2013. ([PDF](https://raghavamukkamala.github.io/files/pubs/2013_Adaptive-Case-Management-EDOC2013.pdf){:target="_blank"})
+
+
+**00. [C]**. Tijs Slaats, Raghava Rao Mukkamala, Thomas Hildebrandt, and Morten Marquard. **Exformatics declarative case management workflows as DCR graphs.** In Business process management, pp. 339-354. Springer, Berlin, Heidelberg, 2013.
+([PDF](https://raghavamukkamala.github.io/files/pubs/2013_DCRGraphs_BPM2013.pdf){:target="_blank"})
+
+
+**00. [C]**. Thomas Hildebrandt, Raghava Rao Mukkamala, Tijs Slaats, and Francesco Zanitti. "Modular context-sensitive and aspect-oriented processes with dynamic condition response graphs." In Proceedings of the 12th workshop on Foundations of aspect-oriented languages, pp. 19-24. ACM, 2013. *Authors listed alphabetically.* ([PDF](https://raghavamukkamala.github.io/files/pubs/2013_DCRGraphs_Aspects_foal.pdf){:target="_blank"})
+
+**00. [J]**. Thomas Hildebrandt, Raghava Rao Mukkamala, Tijs Slaats, and Francesco Zanitti. "Contracts for cross-organizational workflows as timed dynamic condition response graphs." The Journal of Logic and Algebraic Programming 82, no. 5-7 (2013): 164-185. *Authors listed alphabetically.* ([PDF](https://raghavamukkamala.github.io/files/pubs/2013_Time-dcrgraphs-journal.pdf){:target="_blank"})
+
+
+2012
+=====
+Raghava Rao Mukkamala. **A formal model for declarative workflows: dynamic condition response graphs.** IT University of Copenhagen. Denmark, PhD Dissertation, 2012. (<span style="background-color: #00F900"> **PhD thesis**</span>). Defended on 2012-06-06. ([PDF](https://raghavamukkamala.github.io/files/pubs/DCRGraphs-raghava-PhD-thesis.pdf){:target="_blank"})
+
+
+2011
+=====
+
+**00. [C]**. Thomas Hildebrandt, Raghava Rao Mukkamala, and Tijs Slaats. **Declarative modelling and safe distribution of healthcare workflows.** In International Symposium on Foundations of Health Informatics Engineering and Systems, pp. 39-56. Springer, Berlin, Heidelberg, 2011. *Authors listed alphabetically.*  ([PDF](https://raghavamukkamala.github.io/files/pubs/DCRGraphs-raghava-PhD-thesis.pdf){:target="_blank"})
+
+
+**00. [C]**. Debois, Søren, Thomas Hildebrandt, Raghava Rao Mukkamala, and Francesco Zanitti. **Towards a Programming Language for Declarative Event-based Context-sensitive Reactive Services.** In Nordic Workshop on Programming Theory. 2011. *Authors listed alphabetically.* ([PDF](https://raghavamukkamala.github.io/files/pubs/2011_nwpt_workshop.pdf){:target="_blank"})
+
+
+**00. [C]**. Thomas Hildebrandt, Raghava Rao Mukkamala, and Tijs Slaats. **Declarative modelling and safe distribution of healthcare workflows.** In International Symposium on Foundations of Health Informatics Engineering and Systems, pp. 39-56. Springer, Berlin, Heidelberg, 2011. *Authors listed alphabetically.* ([PDF](https://raghavamukkamala.github.io/files/pubs/2012_fhies_paper.pdf){:target="_blank"})
+
+
+**00. [C]**. Thomas Hildebrandt, Raghava Rao Mukkamala, and Tijs Slaats. **Safe distribution of declarative processes.** In International Conference on Software Engineering and Formal Methods, pp. 237-252. Springer, Berlin, Heidelberg, 2011.
+*Authors listed alphabetically.* ([PDF](https://raghavamukkamala.github.io/files/pubs/2011_SEFM-dist-dcr.pdf){:target="_blank"})
+
+
+**00. [C]**. Thomas Hildebrandt, Raghava Rao Mukkamala, and Tijs Slaats. **Designing a cross-organizational case management system using dynamic condition response graphs.** In 2011 IEEE 15th International Enterprise Distributed Object Computing Conference, pp. 161-170. IEEE, 2011. *Authors listed alphabetically.* ([PDF](https://raghavamukkamala.github.io/files/pubs/2011_DCRGRaphs_casestudy-EDOC.pdf){:target="_blank"})
+
+
+**00. [C]**. Thomas Hildebrandt, Raghava Rao Mukkamala, and Tijs Slaats. **Nested dynamic condition response graphs.** In International conference on fundamentals of software engineering, pp. 343-350. Springer, Berlin, Heidelberg, 2011. *Authors listed alphabetically.* ([PDF](https://raghavamukkamala.github.io/files/pubs/2011_FSEN_NestedDCRGraphs.pdf){:target="_blank"})
+
+**00. [J]**. Thomas Hildebrandt, and Raghava Rao Mukkamala. **Declarative event-based workflow as distributed dynamic condition response graphs.** Electronic Proceedings in Theoretical Computer Science.  Volume 69 of EPTCS, pages 59–73, (2011). ([PDF](https://raghavamukkamala.github.io/files/pubs/2011_dcrsjournalversion.pdf){:target="_blank"})
+
+
+2010
+=====
+
+
+**00. [C]**. Raghava Rao Mukkamala, and Thomas T. Hildebrandt. "From dynamic condition response structures to büchi automata." In 2010 4th IEEE International Symposium on Theoretical Aspects of Software Engineering, Taipei, Taiwan. pp. 187-190. IEEE, 2010.  ([PDF](https://raghavamukkamala.github.io/files/pubs/2010_TASE_DCRGraphsToBuchiAutomata.pdf){:target="_blank"})
+
+
+**00. [C]**. Thomas Hildebrandt, and Raghava Rao Mukkamala. "Distributed dynamic condition response structures." In Pre-proceedings of International Workshop on Programming Language Approaches to Concurrency and Communication-cEntric Software (PLACES 10),Paphos, Cyprus. 2010.  ([PDF](https://raghavamukkamala.github.io/files/pubs/2010_DCRS_PLACES.pdf){:target="_blank"})
+
+2008
+====
+
+
+**00. [C]**. Raghava Rao Mukkamala, Thomas Hildebrandt, and Janus Boris Tøth. **The resultmaker online consultant: From declarative workflow management in practice to LTL.** In 2008 12th Enterprise Distributed Object Computing Conference Workshops, pp. 135-142. IEEE, 2008. ([PDF](https://raghavamukkamala.github.io/files/pubs/2008_Resultmaker_OC.pdf){:target="_blank"})
+
+
+**00. [C]**. Karen Marie Lyng, Thomas Hildebrandt, and Raghava Rao Mukkamala. **From paper based clinical practice guidelines to declarative workflow management.** In International Conference on Business Process Management, pp. 336-347. Springer, Berlin, Heidelberg, 2008. ([PDF](https://raghavamukkamala.github.io/files/pubs/2008_Clinical_Guidelines_workflows.pdf){:target="_blank"})

@@ -9,25 +9,52 @@ redirect_from:
 
 {% include base_path %}
 
-<!---
+
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 03.2009 - 02-2012 PhD in Computer Science from IT University of Copenhagen {Advisor: Thomas T. Hildebrandt}
+
+* 02.2008 - 01.2009 Industrial PhD student at IT University of Copenhagen Denmark, on behalf of Resultmaker A/S.
+* 2003 - 2005 M Sc in computer science (Internet Technology) from IT University of Copenhagen, Denmark
+* 1982-1987 Bachelor's degree in Civil Engineering from Jawaharlal Nehru Technological University (JNTU-Anantapur), Andhra Pradesh state, India
+
+
 
 Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+=============
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
+Research Experience
+------------------
+* 09/2015 – : Associate Professor at the department of Digitalization in  Copenhagen Business School, Denmark.
+* 10/2015 – 08/2017: Assistant Professor at the department of IT Management in  Copenhagen Business School, Denmark.
+* 05/2015 - 09/2015: Postdoc at the department of IT Management in  Copenhagen Business School, Denmark.
+* 11/2013 - 04/2015: Postdoc in Software and Systems Section in ITU.
+* 03/2012 - 10/2013: Postdoc in Theoretical Computer Science Section in ITU.
+* 06/2011 – 08/2011: Visiting Research Scholar, IBM Watson Research Center, New York, USA.
+* 05/2010 – 08/2010: Visiting Research Scholar, Microsoft Research, Bangalore, India.
+
+IT Industry Experience
+--------------
+* 01/2003 - 01/2009: Worked as Senior Software Consultant in Resultmaker A/S, Denmark
+* 01/2001 - 12/2002: Employed as Senior Software Engineer in Business IT A/S, Denmark
+* 01/2001 - 05/2001: Worked as Software Engineer in Catalog International A/S, Denmark
+* 08/2000 - 12/2000: Worked as Software Consultant in Novo Nordisk A/S, Denmark
+
+Functional Experience
+---------------------
+* 06/1989 - 07/2000: Worked as Irrigation and Designs Engineer in Irrigation & CAD Department, Government of Andhra Pradesh, India
+
+
+
+
+
+
+
+
+<!--
+
 Skills
 ======
 * Skill 1
@@ -42,19 +69,19 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams

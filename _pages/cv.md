@@ -13,8 +13,7 @@ redirect_from:
 
 Education
 --------
-* 03/2009 - 02/2012: PhD in Computer Science from Theoretical Computer Science Section at IT University of Copenhagen {Advisor: Thomas T. Hildebrandt}. <br/>
-{Thesis: A formal model for declarative workflows: dynamic condition response graphs.}
+* 03/2009 - 02/2012: PhD in Computer Science from Theoretical Computer Science Section at IT University of Copenhagen {Advisor: Thomas T. Hildebrandt}. {Thesis: A formal model for declarative workflows: dynamic condition response graphs.}
 
 * 02/2008 - 01/2009 Industrial PhD student at IT University of Copenhagen Denmark, on behalf of Resultmaker A/S.
 * 01/2003 - 09/2005 M Sc in Internet Technology from IT University of Copenhagen, Denmark

@@ -42,12 +42,12 @@ In: International Journal of Entrepreneurship and Small Business, Vol. 33, No. 4
 
 
 **54. [J]**. Raghava Rao Mukkamala; Ravi Vatrapu; Pradeep Kumar Ray; Gora Sengupta; Sankar Halder / **Blockchain for Social Business : Principles and Applications.**
-In: IEEE Engineering Management Review, Vol. 46, No. 4, 12.2018, p. 94-99. ([PDF](https://raghavamukkamala.github.io/files/pubs/2018_IEEE_BigData_IoTDA2018.pdf){:target="_blank"})
+In: IEEE Engineering Management Review, Vol. 46, No. 4, 12.2018, p. 94-99. ([PDF](https://raghavamukkamala.github.io/files/pubs/2018_Blockchain-Social-business-Principles-Applications.pdf){:target="_blank"})
 
 
 
 **53. [C]**. Xiaochen Zheng; Raghava Rao Mukkamala; Ravi Vatrapu; Joaqun Ordieres-Mere / **Blockchain-based Personal Health Data Sharing System Using Cloud Storage.**
-In: 2018 IEEE 20th International Conference on E-Health Networking, Applications and Services (Healthcom). ed. /Jan Kubicek. Los Alamos, CA : IEEE 2018. ([PDF](https://raghavamukkamala.github.io/files/pubs/2018_Blockchain-Social-business-Principles-Applications.pdf){:target="_blank"})
+In: 2018 IEEE 20th International Conference on E-Health Networking, Applications and Services (Healthcom). ed. /Jan Kubicek. Los Alamos, CA : IEEE 2018. ([PDF](https://raghavamukkamala.github.io/files/pubs/2018-Healthcom-blockchain-publichealth-data.pdf){:target="_blank"})
 
 
 

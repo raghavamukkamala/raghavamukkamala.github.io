@@ -9,8 +9,19 @@ author_profile: true
 Peer-Reviewed Publications
 ==========================
 
-2019
+2020
 =====
+
+**65. [J]**. Aseem Kinra; Kim Sundtoft Hald; Raghava Rao Mukkamala; Ravi Vatrapu / **An Unstructured Big Data Approach for Country Logistics Performance Assessment in Global Supply Chains.**
+In: International Journal of Operations and Production Management, Vol. 40, No. 4, 2020, p. 439-458.([PDF](https://raghavamukkamala.github.io/files/pubs/2020_IJOPM-Big-data-for-logistics-Performance.pdf){:target="_blank" rel="noopener"})
+
+**64. [J]**. Gayathri Rajakumaran; Neelanarayanan Venkataraman; Raghava Rao Mukkamala / **Denial of Service Attack Prediction Using Gradient Descent Algorithm**.  In: SN Computer Science, Vol. 1, No. 1, 1.2020.
+
+**63. [J]**. Abid Hussain; Lester Allan Lasrado; Raghava Rao Mukkamala / **Sharing Is Caring – Design and Demonstration of a Data Privacy Tool for Interorganizational Transfer of Data**.Paper presented at International Conference on ENTERprise Information Systems/International Conference on Project MANagement/International Conference on Health and Social Care Information Systems and Technologies. CENTERIS/ProjMAN/HCist 2020, 2020
+
+**62. [J]**. Monica Mundada; Raghava Rao Mukkamala / **Smart Cities for Sustainability : An Analytical Perspective**. In: Proceedings of the World Conference on Smart Trends in Systems, Security and Sustainability (WS4 2020). ed. /Xin-She Yang; Simon James Fong; Moisés Toapanta; Ion Andronache; Niko Phillips. Los Alamos, CA : IEEE 7.2020, p. 770-775. ([PDF](https://raghavamukkamala.github.io/files/pubs/2020_Samrt_Cities_IEE_WS4.pdf){:target="_blank" rel="noopener"})
+
+# 2019
 
 **61. [J]**. Xiaochen Zheng; Shengjing Sun; Raghava Rao Mukkamala; Ravi Vatrapu; Joaquín Ordieres-Meré / **Accelerating Health Data Sharing : A Solution Based on the Internet of Things and Distributed Ledger Technologies.** In: Journal of Medical Internet Research, Vol. 21, No. 6, 2019. ([PDF](https://raghavamukkamala.github.io/files/pubs/2019-JMIR-IOTA-Health-Data-Sharing.pdf){:target="_blank" rel="noopener"})
 
@@ -218,7 +229,7 @@ In: Proceedings of the 2014 IEEE International Congress on Big Data. BigData Con
 
 2012
 =====
-Raghava Rao Mukkamala. **A formal model for declarative workflows: dynamic condition response graphs.** IT University of Copenhagen. Denmark, PhD Dissertation, 2012. (<span style="background-color: #00F900"> **PhD thesis**</span>). Defended on 2012-06-06. ([PDF](https://raghavamukkamala.github.io/files/pubs/DCRGraphs-raghava-PhD-thesis.pdf){:target="_blank"})
+Raghava Rao Mukkamala. **A formal model for declarative workflows: dynamic condition response graphs.** IT University of Copenhagen. Denmark, PhD Dissertation, 2012. (<span style="background-color: #00F900"> **PhD thesis**</span>). Defended on 2012-06-06. ([PDF](https://raghavamukkamala.github.io/files/pubs/2012_DCRGraphs-raghava-PhD-thesis.pdf){:target="_blank"})
 
 
 2011

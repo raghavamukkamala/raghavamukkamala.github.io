@@ -11,6 +11,12 @@ Peer-Reviewed Publications
 
 # 2021
 
+**70. [BC]**. Raghava Rao Mukkamala; Ravi Vatrapu / Distributed Ledger Technologies and Blockchain for FinTech. In: The Routledge Handbook of FinTech. ed. /K. Thomas Liaw. Abingdon : Routledge 2021, p. 79-98 (Routledge International Handbooks) ([PDF](https://raghavamukkamala.github.io/files/pubs/2021-Routledge-Handbook-DLT-and-Blockchain-for-FinTech.pdf){:target="_blank" rel="noopener"})
+
+**69. [J]**. Ashutosh Dhar Dwivedi; Rajani Singh; Keshav Kaushik; Raghava Rao Mukkamala; Waleed S. Alnumay / Blockchain and Artificial Intelligence for 5G-enabled Internet of Things : Challenges, Opportunities, and Solutions. In: Transactions on Emerging Telecommunications Technologies, 14.7.2021. [PDF](https://raghavamukkamala.github.io/files/pubs/2021_Transactions_ETL_Blockchain-and-AI-for-5G-enabled-IoT.pdf){:target="_blank" rel="noopener"})
+
+**68. [J]**. Lukas Stockburger; Georgios Kokosioulis; Alivelu Manga Mukkamala; Raghava Rao Mukkamala; Michel Avital / Blockchain-enabled Decentralized Identity Management : The Case of Self-sovereign Identity in Public Transportation. In: Blockchain: Research and Applications, 2021. ([Link](https://doi.org/10.1016/j.bcra.2021.100014){:target="_blank" rel="noopener"})
+
 **67. [J]**. Ashutosh Dhar Dwivedi; Rajani Singh; Uttam Ghosh; Raghava Rao Mukkamala; Amr Tolba; Omar Said / Privacy Preserving Authentication System based on Non-interactive Zero Knowledge Proof Suitable for Internet of Things In: Journal of Ambient Intelligence and Humanized Computing. ([PDF](https://raghavamukkamala.github.io/files/pubs/2021_JAIHC_PrivacyPreservingAuthenticatio.pdf){:target="_blank" rel="noopener"})
 
 

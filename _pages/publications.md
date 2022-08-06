@@ -9,6 +9,24 @@ author_profile: true
 Peer-Reviewed Publications
 ==========================
 
+# 2022
+
+**77. [J]**. Ashutosh Dhar Dwivedi; Rajani Singh; Raghava Rao Mukkamala; Waleed S Alnumay / Privacy-Preserving Ledger for Blockchain and IoT enabled Cyber-Physical Systems. In: Computers and Electrical Engineering, Elsevier, 2022. (accepted). (Impact factor = 4.15)
+
+**76. [C]**. Tim Schurig; Sine Zambach; Raghava Rao Mukkamala; Malte Petry / Aspect-based Sentiment Analysis for University Teaching Analytics. In: Proceedings of the 30th European Conference on Information Systems (ECIS), Timișoara, Romania. 2022. 
+
+**75. [C]**. Günter Prockl; Dominik Roeck; Thomas Jensen; Somnath Mazumdar; Raghava Rao Mukkamala / Beyond Task-technology Fit : Exploring Network Value of Blockchain Technology Based on Two Supply Chain Cases. In: Proceedings of the 55th Hawaii International Conference on System Sciences (HICSS) 2022, p. 5040-5049
+
+**74. [J]**. Malte Bieler; Raghava Rao Mukkamala; Tor-Morten Grønli / A Context- and Trajectory-based Destination Prediction of Public Transportation Users. In: IEEE Intelligent Transportation Systems Magazine, 11.1.2022, p. 18. (Impact factor = 3.42)
+
+**73. [J]**. Deepraj Chowdhury; Anik Das; Ajoy Dey; Shreya Sarkar; Ashutosh Dhar Dwivedi; Raghava Rao Mukkamala; Lakhindar Murmu / ABCanDroid : A Cloud Integrated Android App for Noninvasive Early Breast Cancer Detection Using Transfer Learning. In: Sensors, Vol. 22, No. 3, 2.2022.
+
+**72. [B]**. A. Brahmananda Reddy (Editor) ; B.V. Kiranmayee (Editor) ; Raghava Rao Mukkamala (Editor) ; K. Srujan Raju (Editor) / Proceedings of Second International Conference on Advances in Computer Engineering and Communication Systems. ICACECS 2021-2022, 599 p. (Algorithms for Intelligent Systems)
+
+**71. [J]**. Sophia Auer; Sophia Nagler; Somnath Mazumdar; Raghava Rao Mukkamala / Towards Blockchain-IoT Based Shared Mobility : Car-sharing and Leasing as a Case Study. In: Journal of Network and Computer Applications, Vol. 200, 4.2022. <span style="background-color: #00F900"> (**Impact factor = 7.57**) </span> &nbsp; ([Link](https://www.sciencedirect.com/science/article/pii/S1084804521003015){:target="_blank" rel="noopener"}) 
+
+
+
 # 2021
 
 **70. [BC]**. Raghava Rao Mukkamala; Ravi Vatrapu / Distributed Ledger Technologies and Blockchain for FinTech. In: The Routledge Handbook of FinTech. ed. /K. Thomas Liaw. Abingdon : Routledge 2021, p. 79-98 (Routledge International Handbooks) ([PDF](https://raghavamukkamala.github.io/files/pubs/2021-Routledge-Handbook-DLT-and-Blockchain-for-FinTech.pdf){:target="_blank" rel="noopener"})

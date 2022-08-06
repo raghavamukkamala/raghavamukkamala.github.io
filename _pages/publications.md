@@ -13,11 +13,11 @@ Peer-Reviewed Publications
 
 **77. [J]**. Ashutosh Dhar Dwivedi; Rajani Singh; Raghava Rao Mukkamala; Waleed S Alnumay / Privacy-Preserving Ledger for Blockchain and IoT enabled Cyber-Physical Systems. In: Computers and Electrical Engineering, Elsevier, 2022. (accepted). (Impact factor = 4.15)
 
-**76. [C]**. Tim Schurig; Sine Zambach; Raghava Rao Mukkamala; Malte Petry / Aspect-based Sentiment Analysis for University Teaching Analytics. In: Proceedings of the 30th European Conference on Information Systems (ECIS), Timișoara, Romania. 2022. 
+**76. [C]**. Tim Schurig; Sine Zambach; Raghava Rao Mukkamala; Malte Petry / Aspect-based Sentiment Analysis for University Teaching Analytics. In: Proceedings of the 30th European Conference on Information Systems (ECIS), Timișoara, Romania. 2022. ([PDF](https://raghavamukkamala.github.io/files/pubs/2022-ECIS-Aspect-based-sentiment-analysis.pdf){:target="_blank" rel="noopener"})
 
-**75. [C]**. Günter Prockl; Dominik Roeck; Thomas Jensen; Somnath Mazumdar; Raghava Rao Mukkamala / Beyond Task-technology Fit : Exploring Network Value of Blockchain Technology Based on Two Supply Chain Cases. In: Proceedings of the 55th Hawaii International Conference on System Sciences (HICSS) 2022, p. 5040-5049
+**75. [C]**. Günter Prockl; Dominik Roeck; Thomas Jensen; Somnath Mazumdar; Raghava Rao Mukkamala / Beyond Task-technology Fit : Exploring Network Value of Blockchain Technology Based on Two Supply Chain Cases. In: Proceedings of the 55th Hawaii International Conference on System Sciences (HICSS) 2022, p. 5040-5049. ([PDF](https://raghavamukkamala.github.io/files/pubs/2022-HICSS-Task-technology-Fit.pdf){:target="_blank" rel="noopener"})
 
-**74. [J]**. Malte Bieler; Raghava Rao Mukkamala; Tor-Morten Grønli / A Context- and Trajectory-based Destination Prediction of Public Transportation Users. In: IEEE Intelligent Transportation Systems Magazine, 11.1.2022, p. 18. (Impact factor = 3.42)
+**74. [J]**. Malte Bieler; Raghava Rao Mukkamala; Tor-Morten Grønli / A Context- and Trajectory-based Destination Prediction of Public Transportation Users. In: IEEE Intelligent Transportation Systems Magazine, 11.1.2022, p. 18. (Impact factor = 3.42). ([PDF](https://raghavamukkamala.github.io/files/pubs/2022_IEEE_ITS_Transactions_Public_Transportation_Users.pdf){:target="_blank" rel="noopener"})
 
 **73. [J]**. Deepraj Chowdhury; Anik Das; Ajoy Dey; Shreya Sarkar; Ashutosh Dhar Dwivedi; Raghava Rao Mukkamala; Lakhindar Murmu / ABCanDroid : A Cloud Integrated Android App for Noninvasive Early Breast Cancer Detection Using Transfer Learning. In: Sensors, Vol. 22, No. 3, 2.2022.
 

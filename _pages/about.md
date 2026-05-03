@@ -8,23 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Raghava Mukkamala is the director of the ([Centre for Business Data Analytics](https://cbsbda.github.io/){:target="_blank" rel="noopener"}), an associate professor at the Department of Digitalization, Copenhagen Business School. He is also the Study Line Coordinator for the new Masters  Programme in Data Science ([Cand.merc. (IT) – Data Science](https://www.cbs.dk/uddannelse/kandidat/msc-in-business-administration-and-data-science){:target="_blank" rel="noopener"}).
+Raghava Mukkamala is a full professor of Data Science and Cybersecurity at the Department of Digitalization, Copenhagen Business School, Denmark. His research primarily focused on Data science, Blockchain Technologies, and Cybersecurity. His current research focuses on developing novel computational methods to analyze social discourse, misinformation, and hate speech by combining formal/mathematical modeling with advanced deep learning and generative AI algorithms. As part of a pro bono research collaboration with the United Nations High Commissioner for Refugees (UNHCR), he works on domain adaptation and fine-tuning of large language models to identify hate speech and bias against refugees. Even though most of his research is published in IEEE and ACM journals, he has also published several papers in FT-50/AJG-4\*/ABDC-A\* journals, such as the Journal of the Association for Information Systems (JAIS) and the Journal of Management Information Systems (JMIS).
+ 
+He teaches several courses in programming, machine learning, and blockchain technologies. Raghava holds a Ph.D. in Theoretical Computer Science and an M.Sc. in Information Technology from IT University of Copenhagen, Denmark. Before moving into research, Raghava had many years of programming and IT development experience in Denmark's IT industry.
 
-
-Raghava’s current research focus is on the interdisciplinary approach to big data analytics. Combining formal/mathematical modeling approaches with data/text mining techniques and machine learning methodologies, his current research program seeks to develop new algorithms and techniques for big data analytics such as Social Set Analytics.
-
-
-In addition to the development and management of the new Masters  Programme in Data Science, he is also teaching several courses in the areas of programming, machine learning and blockchain technology.  
-
-
-Raghava holds a Ph.D. degree in Computer Science and an M.Sc degree in Information Technology, both from IT University of Copenhagen, Denmark and a Bachelor of Technology degree from Jawaharlal Nehru Technological University, India. Before moving to research, Raghava has many years of programming and IT development experience from the Danish IT industry.
 
 My Primary research areas are:
 
+- Large Language Models and Generative AI
 - Cybersecurity and Cybersecurity Analytics
-- Blockchain based Technologies and Smart Contracts
+- Blockchain-based Technologies and Smart Contracts
 - Computational Social Science
-- Big Data Analytics and Social Data Analytics
 - Text Analytics and Natural Language Processing
 - Fuzzy Logic and Soft Computing
 - Formal methods for business processes and workflows
